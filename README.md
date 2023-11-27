@@ -5,10 +5,10 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
 
 <details>
 <summary>List of players</summary>
-  [shinonasty](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/shinonasty.md)<br>
-  [dizzayy](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/dizzayy.md)<br>
-  [dice](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/dice.md)<br>
-  [eltigant](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/eltigant.md)<br>
-  [furryfeet](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/furryfeet.md)<br>
-  [ianpep](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/ianpep.md)<br>
+<a href="shinonasty.md">shinonasty</a><br>
+<a href="dizzayy.md">Dizzayy</a><br>
+<a href="dice.md">Dice</a><br>
+<a href="eltigant.md">Eltigant</a><br>
+<a href="furryfeet.md">furry feet</a><br>
+<a href="ianpep.md">ianpep</a><br>
 </details>
