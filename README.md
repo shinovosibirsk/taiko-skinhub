@@ -12,4 +12,5 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
 <a href="erys.md">Erys</a><br>
 <a href="furryfeet.md">furry feet</a><br>
 <a href="ianpep.md">ianpep</a><br>
+<a href="supernoob20.md">SUPERNOOB20</a><br>
 </details>
