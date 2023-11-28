@@ -10,3 +10,5 @@
 ## [Ameliorate](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/Ameliorate.osk)
 ![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot311.jpg)
 
+## [shinchikuskin](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/shinchikuskin.osk)
+![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot320.jpg)
