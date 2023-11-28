@@ -12,6 +12,7 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
 <a href="erys.md">Erys</a><br>
 <a href="furryfeet.md">furry feet</a><br>
 <a href="ianpep.md">ianpep</a><br>
+<a href="somebody33.md">somebody_33</a><br>
 <a href="supernoob20.md">SUPERNOOB20</a><br>
 </details>
 
@@ -41,6 +42,10 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
        height="175"></a>
 <a href="ianpep.md">
   <img src="https://a.ppy.sh/7699030"  
+       width="175"
+       height="175"></a>
+<a href="somebody33.md">
+  <img src="https://a.ppy.sh/16830329"  
        width="175"
        height="175"></a>
 <a href="supernoob20.md">
