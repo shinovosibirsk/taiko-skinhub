@@ -7,5 +7,5 @@
 ## [Dizzayy Mix V5](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/Dizzayy%20Mix%20V5.osk)
 ![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot312.jpg)
 
-## [kitafuma v1.5](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/kitafuma%20skin%20v1.5%20(edit%20editon).osk)
+## [kitafuma v1.5 (edit edition)](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/kitafuma%20skin%20v1.5%20(edit%20editon).osk)
 ![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot319.jpg)
