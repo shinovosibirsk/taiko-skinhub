@@ -20,6 +20,10 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
   <img src="https://a.akatsuki.gg/101409"  
        width="175"
        height="175"></a>
+<a href="[boy].md">
+  <img src="https://a.ppy.sh/12871335"  
+       width="175"
+       height="175"></a>
 <a href="dice.md">
   <img src="https://a.ppy.sh/19154954"  
        width="175"
@@ -50,5 +54,9 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
        height="175"></a>
 <a href="supernoob20.md">
   <img src="https://a.ppy.sh/16422988"  
+       width="175"
+       height="175"></a>
+<a href="winterispretty.md">
+  <img src="https://a.akatsuki.gg/52977"  
        width="175"
        height="175"></a>
