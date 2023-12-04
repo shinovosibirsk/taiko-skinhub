@@ -10,6 +10,7 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
 <a href="dice.md">Dice</a><br>
 <a href="dizzayy.md">Dizzayy</a><br>
 <a href="eltigant.md">Eltigant</a><br>
+  <a href="emillechat.md">emil le chat</a><br>
 <a href="erys.md">Erys</a><br>
 <a href="furryfeet.md">furry feet</a><br>
 <a href="hornedlove.md">hornedlove</a><br>
@@ -37,6 +38,10 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
        height="175"></a>
 <a href="eltigant.md">
   <img src="https://a.ppy.sh/15191942"  
+       width="175"
+       height="175"></a>
+<a href="emillechat.md">
+  <img src="https://a.nksu.gg/1077"  
        width="175"
        height="175"></a>
 <a href="erys.md">
