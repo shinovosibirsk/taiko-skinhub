@@ -1,6 +1,9 @@
 # shinonasty's skins
 [profile](https://akatsuki.gg/u/101409)
 
+## [4sbet1_Skin_Simple_v1.2](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/4sbet1_Skin_Simple%20v1.2.osk)
+![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot309.jpg)
+
 ## [hatzu acc juice](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/hatzu%20acc%20juice.osk)
 ![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot318.jpg)
 
