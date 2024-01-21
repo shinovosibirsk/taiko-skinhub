@@ -55,6 +55,10 @@ Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
   <img src="https://a.ppy.sh/7699030"  
        width="175"
        height="175"></a>
+<a href="nagaa0509.md">
+  <img src="https://a.akatsuki.gg/115297"  
+       width="175"
+       height="175"></a>       
 <a href="somebody33.md">
   <img src="https://a.ppy.sh/16830329"  
        width="175"
