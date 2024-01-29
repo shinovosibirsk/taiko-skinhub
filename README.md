@@ -1,11 +1,11 @@
 # taiko-skinhub
 __A repo of taiko skins of taiko players.__
 
-Managed by [shinonasty](https://akatsuki.gg/u/101409?mode=1&rx=0).
+Managed by [shinosky](https://akatsuki.gg/u/101409?mode=1&rx=0).
 
 <details>
 <summary>List of players</summary>
-<a href="shinonasty.md">shinonasty</a><br>
+<a href="shinonasty.md">shinosky</a><br>
 <a href="[boy].md">[BOY]</a><br>
 <a href="dice.md">Dice</a><br>
 <a href="dizzayy.md">Dizzayy</a><br>
