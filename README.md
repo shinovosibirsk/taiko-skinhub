@@ -41,7 +41,7 @@ Managed by [shinosky](https://akatsuki.gg/u/101409?mode=1&rx=0).
   <img src="https://a.ppy.sh/15191942"  
        width="175"
        height="175"></a>
-<a href="eenzo.md">
+<a href="enzo.md">
   <img src="https://a.ppy.sh/10233705"  
        width="175"
        height="175"></a>
