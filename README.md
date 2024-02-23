@@ -10,6 +10,7 @@ Managed by [shinosky](https://akatsuki.gg/u/101409?mode=1&rx=0).
 <a href="dice.md">Dice</a><br>
 <a href="dizzayy.md">Dizzayy</a><br>
 <a href="eltigant.md">Eltigant</a><br>
+<a href="enzo.md">Enzo_</a><br>
 <a href="erys.md">Erys</a><br>
 <a href="furryfeet.md">furry feet</a><br>
 <a href="hornedlove.md">hornedlove</a><br>
@@ -38,6 +39,10 @@ Managed by [shinosky](https://akatsuki.gg/u/101409?mode=1&rx=0).
        height="175"></a>
 <a href="eltigant.md">
   <img src="https://a.ppy.sh/15191942"  
+       width="175"
+       height="175"></a>
+<a href="eenzo.md">
+  <img src="https://a.ppy.sh/10233705"  
        width="175"
        height="175"></a>
 <a href="erys.md">
