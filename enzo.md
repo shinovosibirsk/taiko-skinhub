@@ -4,3 +4,9 @@
 ## [Finale](https://www.mediafire.com/file/wchaugi6ji4ldpv/Finale.osk/file)
 ###### Large file size (106mb). Redirects to MediaFire link.
 ![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot066.jpg)
+
+## [shinchikuskin (Enzo Edit)](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/shinchikuskin%20(Enzo%20Edit).osk)
+![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot064.jpg)
+
+## [Peaceful (Enzo Edit)](https://github.com/shinovosibirsk/taiko-skinhub/raw/main/skins/Peaceful%20(Enzo%20Edit).osk)
+![](https://github.com/shinovosibirsk/taiko-skinhub/blob/main/screenshots/screenshot065.jpg)
